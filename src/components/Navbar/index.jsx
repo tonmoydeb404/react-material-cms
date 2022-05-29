@@ -62,7 +62,7 @@ const Navbar = ({ setSidebarStatus, sidebarStatus, drawerWidth }) => (
 
             <NavbarBrand to="/">
                 <Typography variant="h6" component="h1">
-                    ReactDASH
+                    CMS
                 </Typography>
             </NavbarBrand>
 
